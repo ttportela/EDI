@@ -18,4 +18,5 @@ q.idade = 48
 vetor = [1, 3, 6] 
 vetor_pes = [p, q]
 
-print(vetor_pes)
+for pe in vetor_pes:
+    print(pe)
